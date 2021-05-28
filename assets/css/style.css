@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #E83E8C;
+}
+
+.suricata-logo {
+    width: 132px;
+    height: 53px;
+    opacity: 1;
+}
+
+h1 {
+   color: #707070;
+}
+
+.card-text{
+    width: 13em;
+    height: 3.5em;
+}
+
+li{
+    font-size: 0.938em;
+}
+    
+.logo-footer {
+    background-color: #E83E8C;
+    width: 3.375rem;
+    height: 6.313rem;
+}
+
+.texto-pagos {
+    font-size: 2.5em;
+    height: 55px;
+    
+}
